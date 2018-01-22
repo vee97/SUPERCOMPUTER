@@ -1,8 +1,8 @@
 # SUPERCOMPUTER
 Master control panel code and communication code that was used to test serial port communication.
 
-Code Development Team,
-DIGF 2005 - Atelier II
+Code Development Team
+DIGF 205 - Atelier II
 Professor Nick Puckett
 Tuesday January 23, 2018
 
