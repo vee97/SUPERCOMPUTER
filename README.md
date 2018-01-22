@@ -1,4 +1,6 @@
 # SUPERCOMPUTER
+
+## Details
 Master control panel code and communication code that was used to test serial port communication.
 
 Code Development Team  
@@ -19,4 +21,14 @@ This code allows Nanos to read information from the serial port sent
 from the control panel, and display corresponding images/animations on
 the OLEDs.
 
+# Contributors
+- Anran Zhou
+- Katrina Larson
+- Mika Hirata
+- Natalie Le Huenen
+- Vivian Wong
+- Jerez Bain
 
+# Acknowledgments
+- Arduino Community
+- Authors of the libraries used in this project
