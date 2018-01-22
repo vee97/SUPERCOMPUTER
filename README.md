@@ -21,7 +21,7 @@ This code allows Nanos to read information from the serial port sent
 from the control panel, and display corresponding images/animations on
 the OLEDs.
 
-# Contributors
+## Contributors
 - Anran Zhou
 - Katrina Larson
 - Mika Hirata
@@ -29,6 +29,6 @@ the OLEDs.
 - Vivian Wong
 - Jerez Bain
 
-# Acknowledgments
+## Acknowledgments
 - Arduino Community
 - Authors of the libraries used in this project
