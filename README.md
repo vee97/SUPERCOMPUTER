@@ -1,10 +1,10 @@
 # SUPERCOMPUTER
 Master control panel code and communication code that was used to test serial port communication.
 
-Code Development Team
-DIGF 205 - Atelier II
-Professor Nick Puckett
-Tuesday January 23, 2018
+Code Development Team  
+DIGF 205 - Atelier II  
+Professor Nick Puckett  
+Tuesday January 23, 2018  
 
 ###### CONTROL PANEL & CENTRAL BRAIN CODE
 This code allows the control panel Arduino to read and check input values,
