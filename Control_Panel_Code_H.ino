@@ -4,7 +4,6 @@
   Professor Nick Puckett
   Tuesday January 23, 2018
 
-
   CONTROL PANEL & CENTRAL BRAIN CODE
   This code allows the control panel Arduino to read and check input values,
   display corresponding images on the Central Brain, and send appropriate
